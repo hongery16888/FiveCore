@@ -3,10 +3,11 @@
   <groupId>world.forcast.sdk</groupId>
   <artifactId>WorldForcast</artifactId>
   <versioning>
-    <release>1.1.0</release>
+    <release>1.1.1</release>
     <versions>
       <version>1.1.0</version>
+      <version>1.1.1</version>
     </versions>
-    <lastUpdated>20210429073528</lastUpdated>
+    <lastUpdated>20210429075557</lastUpdated>
   </versioning>
 </metadata>
