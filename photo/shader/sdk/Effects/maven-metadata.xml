@@ -3,10 +3,11 @@
   <groupId>photo.shader.sdk</groupId>
   <artifactId>Effects</artifactId>
   <versioning>
-    <release>1.1.8</release>
+    <release>1.1.9</release>
     <versions>
       <version>1.1.8</version>
+      <version>1.1.9</version>
     </versions>
-    <lastUpdated>20210511080225</lastUpdated>
+    <lastUpdated>20210511081735</lastUpdated>
   </versioning>
 </metadata>
