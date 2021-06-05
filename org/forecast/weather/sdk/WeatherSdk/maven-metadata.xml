@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.forecast.weather.sdk</groupId>
+  <artifactId>WeatherSdk</artifactId>
+  <versioning>
+    <release>1.2.7</release>
+    <versions>
+      <version>1.2.7</version>
+    </versions>
+    <lastUpdated>20210605081722</lastUpdated>
+  </versioning>
+</metadata>
