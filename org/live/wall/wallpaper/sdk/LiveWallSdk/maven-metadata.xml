@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.live.wall.wallpaper.sdk</groupId>
+  <artifactId>LiveWallSdk</artifactId>
+  <versioning>
+    <release>1.3.1</release>
+    <versions>
+      <version>1.3.1</version>
+    </versions>
+    <lastUpdated>20210618093438</lastUpdated>
+  </versioning>
+</metadata>
